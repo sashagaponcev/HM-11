@@ -1,0 +1,19 @@
+:root {
+    --accent-color-green: #008000;
+    --accent-color-red: #ff0000;
+}
+
+.first-div {
+    color: var(--accent-color-green);
+    background-color: var(--accent-color-green);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    width: 350px;
+    height: 220px;
+    border-color: var(--accent-color-red);
+    border-width: 2px;
+    border-style: dotted;
+    margin-bottom: 30px;
+}
